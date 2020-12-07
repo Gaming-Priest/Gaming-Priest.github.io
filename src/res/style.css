@@ -21,8 +21,8 @@
   
 }
 .fa-quote-left, .fa-quote-right{
-  margin: 10px;
-  font-size: 40px;
+  margin: 5px;
+  font-size: 20px;
 }
 .quote-buttons{
   display: flex;
