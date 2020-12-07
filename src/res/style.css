@@ -1,0 +1,32 @@
+*{
+  margin:5px;
+}
+.quote-container{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  border: .5px solid;
+  background-color: white;
+}
+.quote-text{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+.quote-author{
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+  
+}
+.fa-quote-left, .fa-quote-right{
+  margin: 10px;
+  font-size: 40px;
+}
+.quote-buttons{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  align-items:center;
+}
