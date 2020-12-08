@@ -3,6 +3,7 @@ import './res/style.css'
 import './res/bootstrap@5.0.0-alpha2.min.css'
 
 const QuoteCard = ({quote,author,getData}) => {
+  const project_links =['https://react-78ytqa.stackblitz.io','https://stackblitz.com/edit/react-78ytqa?file=src%2Fquote-card.js']
     return ( 
         <div className="card-group" id="quote-box">
           <div className="card">
